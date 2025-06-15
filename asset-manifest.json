@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/rafaelreali/todo-list-react/static/js/main.22a7e651.js",
-    "index.html": "/rafaelreali/todo-list-react/index.html",
-    "main.22a7e651.js.map": "/rafaelreali/todo-list-react/static/js/main.22a7e651.js.map"
+    "main.js": "/todo-list-react/static/js/main.22a7e651.js",
+    "index.html": "/todo-list-react/index.html",
+    "main.22a7e651.js.map": "/todo-list-react/static/js/main.22a7e651.js.map"
   },
   "entrypoints": [
     "static/js/main.22a7e651.js"
